@@ -1,0 +1,2 @@
+# An-lisis-de-ventas-de-videojuegos-Proyecto-integrado
+Estudio de caso para la tienda online Ice: preparación y limpieza del dataset de videojuegos (hasta 2016), cálculo de ventas globales por título y análisis por plataforma, región y género. Realicé EDA, visualizaciones y pruebas de hipótesis (comparación de medias / t-tests), además de un modelo predictivo simple para planear campañas de ventas 2017
